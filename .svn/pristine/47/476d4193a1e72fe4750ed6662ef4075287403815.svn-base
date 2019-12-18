@@ -1,0 +1,1718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="yanchuang" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="088e1177-5bf9-457c-9c14-3bde448aa183" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/DFileSelector.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/.transforms" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/.transforms/1ca0d80d57d622f142889619e9149547" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/.transforms/1ca0d80d57d622f142889619e9149547.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/.transforms/52fd6e3bdaf3367fbd3321534a7b1dc7" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/.transforms/52fd6e3bdaf3367fbd3321534a7b1dc7.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/.transforms/52fd6e3bdaf3367fbd3321534a7b1dc7/full" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/.transforms/52fd6e3bdaf3367fbd3321534a7b1dc7/full/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/.transforms/dd2821a6716a1075d1c3dcccfe29f4c0" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/.transforms/dd2821a6716a1075d1c3dcccfe29f4c0.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/.transforms/dd2821a6716a1075d1c3dcccfe29f4c0/full" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/.transforms/dd2821a6716a1075d1c3dcccfe29f4c0/full/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/ap_generated_sources" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/ap_generated_sources/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/ap_generated_sources/debug/out" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/arch" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/arch/core" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/arch/core/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/arch/lifecycle" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/arch/lifecycle/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/arch/lifecycle/livedata" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/arch/lifecycle/livedata/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/arch/lifecycle/livedata/core" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/arch/lifecycle/livedata/core/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/arch/lifecycle/viewmodel" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/arch/lifecycle/viewmodel/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/asynclayoutinflater" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/asynclayoutinflater/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/compat" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/compat/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/coordinatorlayout" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/coordinatorlayout/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/coreui" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/coreui/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/coreutils" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/coreutils/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/cursoradapter" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/cursoradapter/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/customview" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/customview/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/documentfile" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/documentfile/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/drawerlayout" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/drawerlayout/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/fragment" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/fragment/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/graphics" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/graphics/drawable" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/graphics/drawable/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/interpolator" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/interpolator/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/loader" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/loader/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/localbroadcastmanager" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/localbroadcastmanager/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/print" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/print/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/slidingpanelayout" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/slidingpanelayout/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/swiperefreshlayout" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/swiperefreshlayout/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/v7" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/v7/appcompat" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/v7/appcompat/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/v7/recyclerview" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/v7/recyclerview/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/v7/viewpager" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/android/support/v7/viewpager/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/androidx" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/androidx/versionedparcelable" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/androidx/versionedparcelable/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/com" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/com/duke" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/com/duke/dfileselector" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/com/duke/dfileselector/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/res" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/res/pngs" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/res/pngs/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/res/resValues" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/res/resValues/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/res/rs" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/source" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/source/apt" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/source/apt/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/source/buildConfig" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/source/buildConfig/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/source/buildConfig/debug/com" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/source/buildConfig/debug/com/duke" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/source/buildConfig/debug/com/duke/dfileselector" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/source/buildConfig/debug/com/duke/dfileselector/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/source/rs" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/generated/source/rs/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/aapt_friendly_merged_manifests" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/aapt_friendly_merged_manifests/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/aapt_friendly_merged_manifests/debug/aapt" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/annotation_processor_list" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/annotation_processor_list/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/annotation_processor_list/debug/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/annotation_processor_list/debug/javaPreCompileDebug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/annotation_processor_list/debug/javaPreCompileDebug/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/check-manifest" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/check-manifest/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/check_manifest_result" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/check_manifest_result/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/check_manifest_result/debug/checkDebugManifest" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/check_manifest_result/debug/checkDebugManifest/out" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/compile_library_classes" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/compile_library_classes/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/compile_library_classes/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/compile_only_not_namespaced_r_class_jar" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/compile_only_not_namespaced_r_class_jar/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/compile_only_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/full_jar" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/full_jar/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/full_jar/debug/createFullJarDebug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/full_jar/debug/createFullJarDebug/full.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/incremental" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/incremental/debug-mergeJniLibs" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/incremental/debug-mergeJniLibs/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/incremental/debug-mergeJniLibs/zip-cache" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/incremental/debug-mergeNativeLibs" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/incremental/debug-mergeNativeLibs/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/incremental/mergeDebugJniLibFolders" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/incremental/mergeDebugShaders" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/incremental/packageDebugAssets" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/incremental/packageDebugAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/incremental/packageDebugResources" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/incremental/packageDebugResources/merged.dir" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/incremental/packageDebugResources/merged.dir/values" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/incremental/packageDebugResources/merged.dir/values-en-rUS" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/incremental/packageDebugResources/merged.dir/values-en-rUS/values-en-rUS.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/incremental/packageDebugResources/merged.dir/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/incremental/packageDebugResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/incremental/packageDebugResources/stripped.dir" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/intermediate-jars" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/intermediate-jars/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/intermediate-jars/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/intermediate-jars/debug/jni" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/intermediate-jars/debug/res.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/activity" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/activity/BasePermissionActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/activity/BasePermissionActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/activity/DefaultSelectorActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/activity/DefaultSelectorActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/adapter" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/adapter/FileSelectorAdapter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/adapter/FileSelectorAdapter$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/adapter/FileSelectorAdapter$FileViewHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/adapter/FileSelectorAdapter$OnFileItemClickListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/adapter/FileSelectorAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/bean" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/bean/FileItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/constant" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/constant/LengthConstant$Name.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/constant/LengthConstant$Size.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/constant/LengthConstant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/helper" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/helper/ClickHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/helper/FileSelector$OnFileSelectListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/helper/FileSelector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/helper/ItemParameter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/provide" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/provide/dateFormat" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/provide/dateFormat/FileDateProvide.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/provide/dateFormat/FileDateProvideDefault.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/provide/filter" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/provide/filter/FileFilterProvide.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/provide/icon" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/provide/icon/FileIconProvide.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/provide/icon/FileIconProvideDefault.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/provide/order" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/provide/order/FileOrderProvide.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/provide/size" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/provide/size/FileSizeProvide.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/provide/size/FileSizeProvideDefault.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/util" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/util/DynamicPermissionCompat$OnPermissionListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/util/DynamicPermissionCompat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/util/FileSelectorUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/util/FileUriPermissionCompat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/util/FileUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/util/SizeUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/util/Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/util/WriteFileLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/widget" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/widget/FileRecyclerView$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/widget/FileRecyclerView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/widget/FileSelectorLayout$OnButtonClickListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/widget/FileSelectorLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/widget/RecycleViewDivider$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/widget/RecycleViewDivider$DrawType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/classes/com/duke/dfileselector/widget/RecycleViewDivider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/arch" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/arch/core" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/arch/core/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/arch/lifecycle" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/arch/lifecycle/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/arch/lifecycle/livedata" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/arch/lifecycle/livedata/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/arch/lifecycle/livedata/core" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/arch/lifecycle/livedata/core/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/arch/lifecycle/viewmodel" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/arch/lifecycle/viewmodel/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/asynclayoutinflater" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/asynclayoutinflater/R$attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/asynclayoutinflater/R$color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/asynclayoutinflater/R$dimen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/asynclayoutinflater/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/asynclayoutinflater/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/asynclayoutinflater/R$integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/asynclayoutinflater/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/asynclayoutinflater/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/asynclayoutinflater/R$style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/asynclayoutinflater/R$styleable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/asynclayoutinflater/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/compat" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/compat/R$attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/compat/R$color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/compat/R$dimen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/compat/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/compat/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/compat/R$integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/compat/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/compat/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/compat/R$style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/compat/R$styleable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/compat/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coordinatorlayout" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coordinatorlayout/R$attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coordinatorlayout/R$color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coordinatorlayout/R$dimen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coordinatorlayout/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coordinatorlayout/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coordinatorlayout/R$integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coordinatorlayout/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coordinatorlayout/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coordinatorlayout/R$style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coordinatorlayout/R$styleable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coordinatorlayout/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreui" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreui/R$attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreui/R$color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreui/R$dimen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreui/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreui/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreui/R$integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreui/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreui/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreui/R$style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreui/R$styleable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreui/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreutils" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreutils/R$attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreutils/R$color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreutils/R$dimen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreutils/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreutils/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreutils/R$integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreutils/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreutils/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreutils/R$style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreutils/R$styleable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreutils/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/cursoradapter" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/cursoradapter/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/customview" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/customview/R$attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/customview/R$color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/customview/R$dimen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/customview/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/customview/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/customview/R$integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/customview/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/customview/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/customview/R$style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/customview/R$styleable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/customview/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/documentfile" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/documentfile/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/drawerlayout" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/drawerlayout/R$attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/drawerlayout/R$color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/drawerlayout/R$dimen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/drawerlayout/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/drawerlayout/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/drawerlayout/R$integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/drawerlayout/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/drawerlayout/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/drawerlayout/R$style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/drawerlayout/R$styleable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/drawerlayout/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/fragment" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/fragment/R$attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/fragment/R$color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/fragment/R$dimen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/fragment/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/fragment/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/fragment/R$integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/fragment/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/fragment/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/fragment/R$style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/fragment/R$styleable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/fragment/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/R$attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/R$color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/R$dimen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/R$integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/R$style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/R$styleable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/interpolator" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/interpolator/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/loader" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/loader/R$attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/loader/R$color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/loader/R$dimen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/loader/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/loader/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/loader/R$integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/loader/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/loader/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/loader/R$style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/loader/R$styleable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/loader/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/localbroadcastmanager" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/localbroadcastmanager/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/print" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/print/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/slidingpanelayout" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/slidingpanelayout/R$attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/slidingpanelayout/R$color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/slidingpanelayout/R$dimen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/slidingpanelayout/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/slidingpanelayout/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/slidingpanelayout/R$integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/slidingpanelayout/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/slidingpanelayout/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/slidingpanelayout/R$style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/slidingpanelayout/R$styleable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/slidingpanelayout/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/swiperefreshlayout" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/swiperefreshlayout/R$attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/swiperefreshlayout/R$color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/swiperefreshlayout/R$dimen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/swiperefreshlayout/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/swiperefreshlayout/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/swiperefreshlayout/R$integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/swiperefreshlayout/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/swiperefreshlayout/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/swiperefreshlayout/R$style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/swiperefreshlayout/R$styleable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/swiperefreshlayout/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat/R$anim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat/R$attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat/R$bool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat/R$color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat/R$dimen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat/R$integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat/R$style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat/R$styleable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/recyclerview" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/recyclerview/R$attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/recyclerview/R$color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/recyclerview/R$dimen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/recyclerview/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/recyclerview/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/recyclerview/R$integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/recyclerview/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/recyclerview/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/recyclerview/R$style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/recyclerview/R$styleable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/recyclerview/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/viewpager" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/viewpager/R$attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/viewpager/R$color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/viewpager/R$dimen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/viewpager/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/viewpager/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/viewpager/R$integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/viewpager/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/viewpager/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/viewpager/R$style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/viewpager/R$styleable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/viewpager/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/androidx" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/androidx/versionedparcelable" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/androidx/versionedparcelable/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/R$anim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/R$attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/R$bool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/R$color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/R$dimen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/R$integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/R$style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/R$styleable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/activity" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/activity/BasePermissionActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/activity/BasePermissionActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/activity/DefaultSelectorActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/activity/DefaultSelectorActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/adapter" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/adapter/FileSelectorAdapter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/adapter/FileSelectorAdapter$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/adapter/FileSelectorAdapter$FileViewHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/adapter/FileSelectorAdapter$OnFileItemClickListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/adapter/FileSelectorAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/bean" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/bean/FileItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/constant" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/constant/LengthConstant$Name.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/constant/LengthConstant$Size.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/constant/LengthConstant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/helper" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/helper/ClickHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/helper/FileSelector$OnFileSelectListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/helper/FileSelector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/helper/ItemParameter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/provide" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/provide/dateFormat" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/provide/dateFormat/FileDateProvide.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/provide/dateFormat/FileDateProvideDefault.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/provide/filter" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/provide/filter/FileFilterProvide.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/provide/icon" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/provide/icon/FileIconProvide.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/provide/icon/FileIconProvideDefault.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/provide/order" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/provide/order/FileOrderProvide.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/provide/size" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/provide/size/FileSizeProvide.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/provide/size/FileSizeProvideDefault.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/util" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/util/DynamicPermissionCompat$OnPermissionListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/util/DynamicPermissionCompat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/util/FileSelectorUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/util/FileUriPermissionCompat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/util/FileUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/util/SizeUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/util/Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/util/WriteFileLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/widget" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/widget/FileRecyclerView$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/widget/FileRecyclerView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/widget/FileSelectorLayout$OnButtonClickListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/widget/FileSelectorLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/widget/RecycleViewDivider$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/widget/RecycleViewDivider$DrawType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/duke/dfileselector/widget/RecycleViewDivider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/jniLibs" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/jniLibs/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/library_assets" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/library_assets/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/library_assets/debug/out" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/library_assets/debug/packageDebugAssets" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/library_assets/debug/packageDebugAssets/out" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/library_java_res" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/library_java_res/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/library_java_res/debug/res.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/library_manifest" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/library_manifest/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/library_manifest/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/lint_jar" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/lint_jar/global" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/lint_jar/global/prepareLintJar" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/lint_publish_jar" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/lint_publish_jar/global" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/lint_publish_jar/global/prepareLintJarForPublish" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/local_only_symbol_list" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/local_only_symbol_list/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/local_only_symbol_list/debug/parseDebugLibraryResources" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/local_only_symbol_list/debug/parseDebugLibraryResources/R-def.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/manifest_merge_blame_file" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/manifest_merge_blame_file/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/merged_jni_libs" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/merged_jni_libs/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/merged_jni_libs/debug/out" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/merged_manifests" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/merged_manifests/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/merged_manifests/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/merged_native_libs" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/merged_native_libs/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/merged_native_libs/debug/out" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/merged_shaders" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/merged_shaders/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/merged_shaders/debug/out" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/packaged_res" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/packaged_res/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/packaged_res/debug/drawable" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/packaged_res/debug/drawable-xxxhdpi-v4" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/packaged_res/debug/drawable-xxxhdpi-v4/dfileselector_file_type_doc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/packaged_res/debug/drawable-xxxhdpi-v4/dfileselector_file_type_folder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/packaged_res/debug/drawable-xxxhdpi-v4/dfileselector_file_type_htm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/packaged_res/debug/drawable-xxxhdpi-v4/dfileselector_file_type_mp3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/packaged_res/debug/drawable-xxxhdpi-v4/dfileselector_file_type_mp4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/packaged_res/debug/drawable-xxxhdpi-v4/dfileselector_file_type_pdf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/packaged_res/debug/drawable-xxxhdpi-v4/dfileselector_file_type_png.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/packaged_res/debug/drawable-xxxhdpi-v4/dfileselector_file_type_ppt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/packaged_res/debug/drawable-xxxhdpi-v4/dfileselector_file_type_rar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/packaged_res/debug/drawable-xxxhdpi-v4/dfileselector_file_type_txt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/packaged_res/debug/drawable-xxxhdpi-v4/dfileselector_file_type_unknow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/packaged_res/debug/drawable-xxxhdpi-v4/dfileselector_file_type_xls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/packaged_res/debug/drawable-xxxhdpi-v4/dfileselector_file_type_xml.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/packaged_res/debug/drawable-xxxhdpi-v4/dfileselector_icon_activity_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/packaged_res/debug/drawable-xxxhdpi-v4/dfileselector_icon_folder_back_step.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/packaged_res/debug/drawable-xxxhdpi-v4/dfileselector_icon_folder_empty.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/packaged_res/debug/drawable/dfileselector_bottom_submit_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/packaged_res/debug/drawable/dfileselector_head_upper_level_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/packaged_res/debug/drawable/dfileselector_list_item_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/packaged_res/debug/layout" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/packaged_res/debug/layout/dfileselector_activity_file_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/packaged_res/debug/layout/dfileselector_head_bar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/packaged_res/debug/layout/dfileselector_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/packaged_res/debug/layout/dfileselector_list_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/packaged_res/debug/values" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/packaged_res/debug/values-en-rUS" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/packaged_res/debug/values-en-rUS/values-en-rUS.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/packaged_res/debug/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/public_res" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/public_res/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/public_res/debug/packageDebugResources" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/res" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/res/symbol-table-with-package" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/res/symbol-table-with-package/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/rs" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/rs/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/rs/debug/lib" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/runtime_library_classes" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/runtime_library_classes/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/runtime_library_classes/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/shader_assets" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/shader_assets/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/shader_assets/debug/compileDebugShaders" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/shader_assets/debug/compileDebugShaders/out" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/shaders" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/shaders/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/stripped_native_libs" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/stripped_native_libs/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/stripped_native_libs/debug/out" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/symbols" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/symbols/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/symbols/debug/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/transforms" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/transforms/mergeJniLibs" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/transforms/mergeJniLibs/debug" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/outputs" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/outputs/logs" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/tmp" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/build/tmp/compileDebugJavaWithJavac" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/androidTest" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/androidTest/java" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/androidTest/java/com" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/androidTest/java/com/duke" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/androidTest/java/com/duke/dfileselector" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/androidTest/java/com/duke/dfileselector/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/activity" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/activity/BasePermissionActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/activity/DefaultSelectorActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/adapter" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/adapter/FileSelectorAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/bean" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/bean/FileItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/constant" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/constant/LengthConstant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/helper" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/helper/ClickHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/helper/FileSelector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/helper/ItemParameter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/provide" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/provide/dateFormat" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/provide/dateFormat/FileDateProvide.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/provide/dateFormat/FileDateProvideDefault.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/provide/filter" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/provide/filter/FileFilterProvide.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/provide/icon" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/provide/icon/FileIconProvide.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/provide/icon/FileIconProvideDefault.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/provide/order" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/provide/order/FileOrderProvide.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/provide/size" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/provide/size/FileSizeProvide.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/provide/size/FileSizeProvideDefault.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/util" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/util/DynamicPermissionCompat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/util/FileSelectorUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/util/FileUriPermissionCompat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/util/FileUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/util/SizeUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/util/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/util/WriteFileLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/widget" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/widget/FileRecyclerView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/widget/FileSelectorLayout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/widget/RecycleViewDivider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/res" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/res/drawable" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/res/drawable-xxxhdpi" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/res/drawable-xxxhdpi/dfileselector_file_type_doc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/res/drawable-xxxhdpi/dfileselector_file_type_folder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/res/drawable-xxxhdpi/dfileselector_file_type_htm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/res/drawable-xxxhdpi/dfileselector_file_type_mp3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/res/drawable-xxxhdpi/dfileselector_file_type_mp4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/res/drawable-xxxhdpi/dfileselector_file_type_pdf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/res/drawable-xxxhdpi/dfileselector_file_type_png.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/res/drawable-xxxhdpi/dfileselector_file_type_ppt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/res/drawable-xxxhdpi/dfileselector_file_type_rar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/res/drawable-xxxhdpi/dfileselector_file_type_txt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/res/drawable-xxxhdpi/dfileselector_file_type_unknow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/res/drawable-xxxhdpi/dfileselector_file_type_xls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/res/drawable-xxxhdpi/dfileselector_file_type_xml.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/res/drawable-xxxhdpi/dfileselector_icon_activity_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/res/drawable-xxxhdpi/dfileselector_icon_folder_back_step.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/res/drawable-xxxhdpi/dfileselector_icon_folder_empty.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/res/drawable/dfileselector_bottom_submit_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/res/drawable/dfileselector_head_upper_level_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/res/drawable/dfileselector_list_item_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/res/layout" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/res/layout/dfileselector_activity_file_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/res/layout/dfileselector_head_bar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/res/layout/dfileselector_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/res/layout/dfileselector_list_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/res/values" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/res/values-en-rUS" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/res/values-en-rUS/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/test" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/test/java" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/test/java/com" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/test/java/com/duke" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/test/java/com/duke/dfileselector" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/DFileSelector/src/test/java/com/duke/dfileselector/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/UpdateHelper.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3375">
+              <caret line="155" column="58" selection-start-line="155" selection-start-column="58" selection-end-line="155" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/task/asynctask/IPublishProgress.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/task/MyAsyncTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://E:/Enviroment/android-sdk/android-sdk/sources/android-29/android/os/AsyncTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10625">
+              <caret line="466" column="60" selection-start-line="466" selection-start-column="46" selection-end-line="466" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/task/asynctask/IProgressUpdate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="925">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/Utils/ByteUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/MainActivity.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2150">
+              <caret line="102" column="28" selection-start-line="102" selection-start-column="28" selection-end-line="102" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/Utils/WriteNFCDataUtils.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="209" column="28" selection-start-line="209" selection-start-column="28" selection-end-line="209" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Object" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>0xff</find>
+      <find>for</find>
+      <find>inc</find>
+      <find>inv</find>
+      <find>CRC8.calcCrc8</find>
+      <find>bpmPixData[idx++]</find>
+      <find>writeNfcA</find>
+      <find>addItemDecoration</find>
+      <find>for(</find>
+      <find>Environment</find>
+      <find>changeIvState</find>
+      <find>writeWord</find>
+      <find>buffer</find>
+      <find>yanchuang</find>
+      <find>getBMPPixData</find>
+      <find>albus</find>
+      <find>起始包写入成功!!!</find>
+      <find>inc()</find>
+      <find>dec()</find>
+      <find>transceive</find>
+      <find>拆分后的黑白图片保存本地成功</find>
+      <find>imageWBpath</find>
+      <find>写入结束包数据错误</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/BaseNFCActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/zkxltech/Utils/BPMImage.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/zkxltech/Utils/ImageUtils.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/zkxltech/task/asynctask/IDoInBackground.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/zkxltech/task/MyAsyncTask.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/task/MyAsyncTask.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/Utils/WriteNFCData.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/Bean/CRC8.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/Bean/Package.kt" />
+        <option value="$PROJECT_DIR$/DFileSelector/src/main/res/layout/dfileselector_layout.xml" />
+        <option value="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/activity/BasePermissionActivity.java" />
+        <option value="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/adapter/FileSelectorAdapter.java" />
+        <option value="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/bean/FileItem.java" />
+        <option value="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/helper/FileSelector.java" />
+        <option value="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/helper/ItemParameter.java" />
+        <option value="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/provide/size/FileSizeProvide.java" />
+        <option value="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/provide/size/FileSizeProvideDefault.java" />
+        <option value="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/util/DynamicPermissionCompat.java" />
+        <option value="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/util/FileUriPermissionCompat.java" />
+        <option value="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/widget/FileRecyclerView.java" />
+        <option value="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/widget/RecycleViewDivider.java" />
+        <option value="$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/widget/FileSelectorLayout.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/TestUtils.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/Utils/LogUtils.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/Utils/BPMImage.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/Utils/ByteUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/Utils/ReadNFCData.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/Utils/ImageUtils.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/Utils/ConnectUtils.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/view/BaseNFCActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/interface/NFCCommunicationInterface.kt" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/MainActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/Utils/WriteNFCDataUtils.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/UpdateHelper.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="1" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="markSDK" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maskSDKSVN" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="xiaomi-mi_9_se-9f1af115" />
+    <property name="DEBUGGABLE_PROCESS" value="com.zkxltech.marksdk" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="9f1af115" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-11-28T09:01:03.809Z" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android.sdk.path" value="E:/Enviroment/android-sdk/android-sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.zkxltech.marksdk" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.zkxltech.marksdk.view" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.zkxltech.marksdk" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zkxltech.marksdk.Utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\ZKXL\markSDK" />
+      <recent name="F:\ZKXL\markSDK\app\src\main\java\com\zkxltech" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\albus\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="F:\ZKXL\maskSDKSVN" />
+          <option name="myCopyRoot" value="F:\ZKXL\maskSDKSVN" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="F:\ZKXL\maskSDKSVN\.idea" />
+          <option name="myCopyRoot" value="F:\ZKXL\maskSDKSVN\.idea" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="F:\ZKXL\maskSDKSVN\app" />
+          <option name="myCopyRoot" value="F:\ZKXL\maskSDKSVN\app" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="F:\ZKXL\maskSDKSVN\DFileSelector" />
+          <option name="myCopyRoot" value="F:\ZKXL\maskSDKSVN\DFileSelector" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="F:\ZKXL\maskSDKSVN" />
+          <option name="myCopyRoot" value="F:\ZKXL\maskSDKSVN" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="088e1177-5bf9-457c-9c14-3bde448aa183" name="Default Changelist" comment="" />
+      <created>1574126258665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574126258665</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.32821342" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.4987874" weight="0.60596025" />
+      <window_info anchor="bottom" id="TODO" order="2" weight="0.3294702" />
+      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.3294702" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5012126" side_tool="true" weight="0.5794702" />
+      <window_info anchor="bottom" id="Build" order="6" sideWeight="0.4987874" visible="true" weight="0.38907284" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" show_stripe_button="false" weight="0.049668875" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.4995958" weight="0.47682118" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.24337748" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" weight="0.32983023" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Preview" order="4" weight="0.261924" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="删除无用的代码文件" />
+    <MESSAGE value="type:fuction desc:初次修改  删除无用的代码文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="type:fuction desc:初次修改  删除无用的代码文件" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/Utils/BPMImage.kt</url>
+          <line>168</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/Utils/ImageUtils.kt</url>
+          <line>290</line>
+          <properties />
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/Utils/BPMImage.kt</url>
+          <line>166</line>
+          <properties />
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="app">
+        <watch expression="imagePath" />
+        <watch expression="bitMap[0]?" />
+        <watch expression="pixels_bw" />
+        <watch expression="list" />
+        <watch expression=" infoHeader?.getWidth()" />
+        <watch expression="infoHeader?.getHeight()" />
+        <watch expression="height!! * width!!" />
+        <watch expression="((_data[4] and 0xFF.toByte()).toInt())" />
+        <watch expression="_data[4]" />
+        <watch expression="0xFF.toByte()" />
+      </configuration>
+      <configuration name="Remote">
+        <watch expression="bitmap" />
+        <watch expression="= FileInputStream(path)" />
+        <watch expression="FileInputStream(path)" />
+        <watch expression="y" />
+        <watch expression="pixels_bw[width * y + x]" />
+        <watch expression="pixels" />
+        <watch expression=".pixels.size" />
+        <watch expression="pixels_bw.size-1" />
+        <watch expression="pixels_bw" />
+        <watch expression="pixels[width * y + x]" />
+        <watch expression="width * y + x" />
+        <watch expression="pixels[width * y + x] == -16777216" />
+        <watch expression=" (alpha shl 24) or (red shl 16) or (green shl 8) or blue" />
+        <watch expression="(grey and 0xFF000000.toInt()) shl 24" />
+        <watch expression="(grey and 0xFF000000.toInt()) shr  24" />
+        <watch expression="(alpha shl 24) or (red shl 16) or (green shl 8) or blue" />
+        <watch expression="list2" />
+        <watch expression="pixels[width * i + j]" />
+        <watch expression="bmpData" />
+        <watch expression=" bitmap.getPixel(wRow, nCol)" />
+        <watch expression="Color.blue(clr).toByte()" />
+        <watch expression="Color.blue(clr)" />
+        <watch expression="clr" />
+        <watch expression="it" language="kotlin" />
+        <watch expression="list" />
+        <watch expression="buffer" />
+        <watch expression="stringBuffer" />
+        <watch expression="numBuffer" />
+        <watch expression="imagedata" />
+        <watch expression=" ImageUtils.imageToByte(imageWBpath, imageWRpath, type)" />
+        <watch expression="iScanDirection" />
+        <watch expression=" (pixData?.get((y * width) + x + i)!! and 0x01) or currentValue" />
+        <watch expression="pixData?.get((y * width) + x + i)" />
+        <watch expression="height" />
+        <watch expression="if (width!! % 8 != 0) (height!! * ((width / 8) + 1)) else (height!! * (width / 8))" />
+        <watch expression="(pixData?.get((y * width) + x + i)!! and 0x01) or currentValue" />
+        <watch expression="pixData" />
+        <watch expression="((_data[4] and 0xFF.toByte()).toInt()) or&#10;                    (((_data[5] and 0xFF.toByte()).toInt()) shl 8) or&#10;                    ((_data[6] and 0xFF.toByte()).toInt() shl 16) or&#10;                    ((_data[7] and 0xFF.toByte()).toInt() shl 24)" />
+        <watch expression="_data" />
+        <watch expression="(((_data[4].toInt() and 0xFF)) or&#10;                    ((_data[5].toInt() and 0xFF))shl 8) or&#10;                    ((_data[6].toInt() and 0xFF) shl 16) or&#10;                    ((_data[7].toInt() and 0xFF) shl 24)" />
+        <watch expression="(((_data[4].toInt() and 0xFF))" />
+        <watch expression="_data[4].toInt()" />
+        <watch expression="_data[4].toInt() and 0xFF" />
+        <watch expression="_data[5].toInt() and 0xFF" />
+        <watch expression="_data[6].toInt() and 0xFF" />
+        <watch expression="_data[7].toInt() and 0xFF" />
+        <watch expression="width" />
+        <watch expression="(_data[4].toInt() and 0xFF)" />
+        <watch expression="(((_data[4].toInt() and 0xFF)).toInt() or&#10;                    ((_data[5].toInt() and 0xFF))shl 8).toInt()" />
+        <watch expression="(_data[5].toInt() and 0xFF))shl 8" language="kotlin" />
+        <watch expression="((_data[5].toInt() and 0xFF))shl 8)" />
+        <watch expression="bitmap?.width" />
+        <watch expression="bitmap?.height" />
+        <watch expression="bitmap?.getPixel(x, y)!!" />
+        <watch expression="(currentValue.inv()) and 0xFF" />
+        <watch expression="tbmpPixData" />
+        <watch expression="bmpPixData" />
+        <watch expression="buffer1" />
+        <watch expression="ledt shr 8 and 0xFF" />
+        <watch expression="ledt and 0xFF" />
+        <watch expression="ledt" />
+        <watch expression="e" />
+        <watch expression="!connected" />
+        <watch expression="result" />
+        <watch expression="Package.status.oid === action_oid &amp;&amp; action_oid != 0xFFFF" />
+        <watch expression="Package.status.xcode === 0xFF.toByte() || Package.status.xcode === 0xFE.toByte()" />
+        <watch expression="action_oid == 0xFFFF || Package.status.oid === 0xFFFF" />
+        <watch expression="Package.start.get(&#10;                                action_oid,&#10;                                bmpPixData.size,&#10;                                maskTemperature.toByte(),&#10;                                crc8!!,&#10;                                0xFF.toByte()&#10;                            )" />
+        <watch expression="readStatus == 2" />
+        <watch expression="readStatus == 1" />
+        <watch expression="writeNfcA(startPackage!!, mfc) === true" />
+        <watch expression="len" />
+        <watch expression="imagedata?.size" />
+        <watch expression="onePack" />
+        <watch expression="mfc.transceive(cmd)" />
+        <watch expression="cmd" />
+        <watch expression="bpmImage.getBMPPixData(0, true)" />
+        <watch expression="pix" />
+        <watch expression="pck_len" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>(_data[5].toInt() and 0xFF))shl 8</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>it</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bitMap[0]?</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/util/FileUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/util/SizeUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/util/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/util/WriteFileLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/widget/FileRecyclerView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="67" column="1" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1359#1514#0" expanded="true" />
+            <element signature="e#1513#1514#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="1590" column="57" selection-start-line="1590" selection-start-column="43" selection-end-line="1590" selection-end-column="57" />
+          <folding>
+            <element signature="e#67095#67096#0" expanded="true" />
+            <element signature="e#67139#67140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/widget/RecycleViewDivider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFileSelector/src/main/java/com/duke/dfileselector/widget/FileSelectorLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="201" column="7" selection-start-line="201" selection-start-column="7" selection-end-line="201" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Enviroment/android-sdk/android-sdk/sources/android-29/java/lang/IllegalStateException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="42" column="11" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+          <folding>
+            <element signature="e#1754#1755#0" expanded="true" />
+            <element signature="e#1777#1778#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Enviroment/android-sdk/android-sdk/sources/android-28/android/graphics/Bitmap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="1761" selection-start-line="1761" selection-end-line="1761" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Enviroment/android-sdk/android-sdk/sources/android-29/android/os/Environment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12700">
+          <caret line="568" column="23" selection-start-line="568" selection-start-column="23" selection-end-line="568" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Enviroment/android-sdk/android-sdk/sources/android-29/android/graphics/Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Enviroment/android-sdk/android-sdk/sources/android-29/android/graphics/Bitmap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="814" column="25" selection-start-line="814" selection-start-column="25" selection-end-line="814" selection-end-column="25" />
+          <folding>
+            <element signature="e#59384#59385#0" expanded="true" />
+            <element signature="e#59437#59438#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Enviroment/android-sdk/android-sdk/sources/android-29/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="1028" column="19" selection-start-line="1028" selection-start-column="19" selection-end-line="1028" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Enviroment/android-sdk/android-sdk/sources/android-29/java/io/RandomAccessFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4900">
+          <caret line="230" column="11" selection-start-line="230" selection-start-column="11" selection-end-line="230" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Enviroment/android-sdk/android-sdk/sources/android-29/com/android/gallery3d/common/BitmapUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3950">
+          <caret line="183" column="37" selection-start-line="183" selection-start-column="37" selection-end-line="183" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/caches/modules-2/files-2.1/androidx.core/core/1.0.2/a317d05e14539220c62c022367178c33192d027e/core-1.0.2-sources.jar!/androidx/core/content/ContextCompat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="538" column="66" selection-start-line="538" selection-start-column="59" selection-end-line="538" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/TestUtils.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="78" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.41/785575d6b699a02527a4ad16f0972fa2c1ee583f/kotlin-stdlib-1.3.41-sources.jar!/kotlin/io/FileReadWrite.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="180" column="23" selection-start-line="180" selection-start-column="23" selection-end-line="180" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Enviroment/android-sdk/android-sdk/sources/android-29/android/util/DisplayMetrics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="256" column="17" selection-start-line="256" selection-start-column="17" selection-end-line="256" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Enviroment/android-sdk/android-sdk/sources/android-29/android/os/Parcelable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="107" column="28" selection-start-line="107" selection-start-column="28" selection-end-line="107" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Enviroment/android-sdk/android-sdk/sources/android-29/android/graphics/BitmapFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16375">
+          <caret line="688" column="25" selection-start-line="688" selection-start-column="25" selection-end-line="688" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Enviroment/android-sdk/android-sdk/sources/android-28/android/os/StrictMode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="1498" selection-start-line="1498" selection-end-line="1498" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Enviroment/android-sdk/android-sdk/sources/android-28/android/os/Binder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="1128" selection-start-line="1128" selection-end-line="1128" />
+          <folding>
+            <element signature="e#5327#5328#0" expanded="true" />
+            <element signature="e#5365#5366#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Enviroment/android-sdk/android-sdk/sources/android-28/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6775">
+          <caret line="314" selection-start-line="314" selection-end-line="314" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Enviroment/android-sdk/android-sdk/sources/android-28/android/nfc/tech/NfcA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="e#4319#4320#0" expanded="true" />
+            <element signature="e#4374#4375#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Enviroment/android-sdk/android-sdk/sources/android-28/android/nfc/tech/BasicTagTechnology.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1250">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Enviroment/android-sdk/android-sdk/sources/android-28/android/os/Parcel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8500">
+          <caret line="397" column="13" selection-start-line="397" selection-start-column="13" selection-end-line="397" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Enviroment/android-sdk/android-sdk/sources/android-28/android/nfc/Tag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5125">
+          <caret line="238" selection-start-line="238" selection-end-line="238" />
+          <folding>
+            <element signature="e#11190#11191#0" expanded="true" />
+            <element signature="e#15537#15538#0" expanded="true" />
+            <element signature="e#15571#15572#0" expanded="true" />
+            <element signature="e#18507#18508#0" expanded="true" />
+            <element signature="e#18550#18551#0" expanded="true" />
+            <element signature="e#18663#18664#0" expanded="true" />
+            <element signature="e#18704#18705#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Enviroment/android-sdk/android-sdk/sources/android-29/android/nfc/tech/NfcA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="118" column="18" selection-start-line="118" selection-start-column="18" selection-end-line="118" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/Bean/CRC8.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7187">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/Bean/Package.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/Utils/BPMImage.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="169" column="9" selection-start-line="167" selection-start-column="7" selection-end-line="169" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/Utils/ConnectUtils.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="e#36#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/view/BaseNFCActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1750">
+          <caret line="79" column="12" selection-start-line="79" selection-start-column="12" selection-end-line="79" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/Utils/ImageUtils.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="55" column="14" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/Utils/ReadNFCData.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/Utils/LogUtils.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <element signature="e#36#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/interface/NFCCommunicationInterface.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="32" column="42" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="42" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/UpdateHelper.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3375">
+          <caret line="155" column="58" selection-start-line="155" selection-start-column="58" selection-end-line="155" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/task/asynctask/IPublishProgress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/task/MyAsyncTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Enviroment/android-sdk/android-sdk/sources/android-29/android/os/AsyncTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10625">
+          <caret line="466" column="60" selection-start-line="466" selection-start-column="46" selection-end-line="466" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/task/asynctask/IProgressUpdate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/Utils/ByteUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/MainActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2150">
+          <caret line="102" column="28" selection-start-line="102" selection-start-column="28" selection-end-line="102" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/zkxltech/marksdk/Utils/WriteNFCDataUtils.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="209" column="28" selection-start-line="209" selection-start-column="28" selection-end-line="209" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
